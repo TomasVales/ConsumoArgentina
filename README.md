@@ -20,6 +20,9 @@ Este proyecto implementa un modelo de regresión polinómica de grado 2 para ana
   - `numpy`: Para operaciones matemáticas y estadísticas.
   - `matplotlib` y `seaborn`: Para la visualización de datos.
   - `scikit-learn`: Para la implementación del modelo de regresión.
+ 
+![image](https://github.com/user-attachments/assets/e7a3146a-9205-4c5d-b2b5-a94e6e45666d)
+
 
 
 Este proyecto fue desarrollado por Tomas Vales como parte de un ejercicio de aprendizaje y análisis de datos en Python.
