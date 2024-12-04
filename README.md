@@ -1,4 +1,4 @@
-# Consumo Energetico en la Argentina
+# Consumo Energetico en Argentina
 
 Este proyecto implementa un modelo de regresión polinómica de grado 2 para analizar y predecir el consumo energético de Argentina basado en datos históricos. Incluye visualizaciones interactivas y gráficas de residuales para evaluar el ajuste del modelo.
 
