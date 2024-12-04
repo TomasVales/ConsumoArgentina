@@ -21,10 +21,5 @@ Este proyecto implementa un modelo de regresión polinómica de grado 2 para ana
   - `matplotlib` y `seaborn`: Para la visualización de datos.
   - `scikit-learn`: Para la implementación del modelo de regresión.
 
-## 🚀 Instrucciones de uso
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/TomasVales/ConsumoArgentina.git
-   cd ConsumoArgentina
 
 Este proyecto fue desarrollado por Tomas Vales como parte de un ejercicio de aprendizaje y análisis de datos en Python.
